@@ -33,8 +33,7 @@ children-book-age-classifier/
 │   └── inference.py
 │
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└──  README.md
 ```
 
 ## Installation
