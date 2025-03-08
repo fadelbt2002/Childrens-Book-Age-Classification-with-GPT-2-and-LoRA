@@ -19,10 +19,9 @@ children-book-age-classifier/
 │   └── processed/
 │       ├── train_books.csv
 │       └── test_books.csv
-
 ├── models/
-│   ├── tiny_stories_model.pt
-│   └── age_classifier_model.pt
+│   └── children_book_age_classifier.pth
+│   
 │
 │
 ├── src/
