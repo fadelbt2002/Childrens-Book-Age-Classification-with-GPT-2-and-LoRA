@@ -15,7 +15,6 @@ children-book-age-classifier/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── tiny_stories.csv
 │   │   └── children_books.csv
 │   └── processed/
 │       ├── train_books.csv
