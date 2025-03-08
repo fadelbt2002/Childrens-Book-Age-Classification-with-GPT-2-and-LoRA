@@ -51,7 +51,7 @@ children-book-age-classifier/
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/children-book-age-classifier.git
+git clone https://github.com/fadelbt2002/children-book-age-classifier.git
 cd children-book-age-classifier
 ```
 
