@@ -103,7 +103,6 @@ mkdir -p data/raw data/processed
 3. Age Classification
 
 ## References
-## References
 1. Eldan, R., & Li, Y. (2023). TinyStories: How Small Can Language Models Be and Still Speak Coherent English?
 2. Hu, E. J., et al. (2021). LoRA: Low-Rank Adaptation of Large Language Models
 3. Radford, A., et al. (2019). Language Models are Unsupervised Multitask Learners. OpenAI
