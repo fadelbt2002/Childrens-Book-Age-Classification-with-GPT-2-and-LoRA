@@ -13,6 +13,13 @@ This project implements a novel approach to age classification for children's bo
 ```
 children-book-age-classifier/
 │
+├── data/
+│   ├── raw/
+│   │   ├── tiny_stories.csv
+│   │   └── children_books.csv
+│   └── processed/
+│       ├── train_books.csv
+│       └── test_books.csv
 ├── models/
 │   ├── tiny_stories_model.pt
 │   └── age_classifier_model.pt
