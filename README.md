@@ -25,11 +25,6 @@ children-book-age-classifier/
 │   ├── tiny_stories_model.pt
 │   └── age_classifier_model.pt
 │
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_language_model_training.ipynb
-│   └── 03_age_classification.ipynb
-│
 ├── src/
 │   ├── __init__.py
 │   ├── data_processor.py
