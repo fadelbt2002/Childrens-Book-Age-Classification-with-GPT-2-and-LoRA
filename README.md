@@ -39,7 +39,6 @@ children-book-age-classifier/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 ```
 
 ## Installation
